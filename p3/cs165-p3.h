@@ -14,8 +14,8 @@
 #define QNEEDED 1
 
 // To be provided by the TA
-#define STRING1 
-#define STRING2 
+#define STRING1 27
+#define STRING2 30
 
 
 // fixed
