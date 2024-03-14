@@ -14,13 +14,13 @@
 #define QNEEDED 1
 
 // To be provided by the TA
-#define STRING1 30
-#define STRING2 "cs165-p3 cmd-file output-file"
+#define STRING1 24
+#define STRING2 30
 
 
 // fixed
-#define ANS_STRING 
-#define USAGE 
+#define ANS_STRING 30
+#define USAGE "cs165-p3 cmd-file output-file"
 
 
 typedef struct question {
